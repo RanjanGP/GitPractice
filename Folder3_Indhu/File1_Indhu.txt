@@ -1,2 +1,11 @@
 updated by Indhu 
+HEAD
 for IP branch alone, to be merged later
+=======
+
+new lines updated by Indhu again
+updated for testing "Indhusbranch"-1
+=======
+for IP branch alone
+>>>>>>> Indhusbranch
+>>>>>>> master
