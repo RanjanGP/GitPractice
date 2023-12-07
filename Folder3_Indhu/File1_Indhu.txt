@@ -1,5 +1,5 @@
 updated by Indhu 
-<<<<<<< HEAD
+
 new lines updated by Indhu again
 updated for testing "Indhusbranch"-1
 =======
